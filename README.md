@@ -1,9 +1,10 @@
+
 ACERA Business Website - Modern Business Landing Page
 
 A high-performance, responsive landing page built for ACERA, a professional services firm. This project demonstrates a modern corporate aesthetic with a focus on speed, accessibility, and user engagement.
 
-🔗 Live Demo https://acera-business-website.vercel.app/ 
-    GitHub Repository https://github.com/fellygor/ACERA-Business-Website/
+Live Demo https://acera-business-website.vercel.app/ 
+GitHub Repository https://github.com/fellygor/ACERA-Business-Website/
 
  🚀 Overview
 
