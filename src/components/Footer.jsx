@@ -1,5 +1,4 @@
 import { Facebook } from 'lucide-react';
-import { NavLink } from 'react-router-dom';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -19,10 +18,10 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-bold mb-6">Company</h4>
             <ul className="space-y-4 text-sm">
-              <li><NavLink to="/" className="hover:text-blue-500 transition">Home</NavLink></li>
-              <li><NavLink to="/about" className="hover:text-blue-500 transition">About Us</NavLink></li>
-              <li><NavLink to="/services" className="hover:text-blue-500 transition">Services</NavLink></li>
-              <li><NavLink to="/contact" className="hover:text-blue-500 transition">Contact</NavLink></li>
+              <li><a href="#" className="hover:text-blue-500 transition">Home</a></li>
+              <li><a href="#about" className="hover:text-blue-500 transition">About Us</a></li>
+              <li><a href="#services" className="hover:text-blue-500 transition">Services</a></li>
+              <li><a href="#contact" className="hover:text-blue-500 transition">Contact</a></li>
             </ul>
           </div>
 

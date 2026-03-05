@@ -23,7 +23,7 @@ const Hero = () => {
             Get Started
           </button>
           <button className="px-8 py-4 bg-transparent border border-slate-700 hover:border-slate-500 text-white font-bold rounded-full transition-all">
-            View Services
+            <a href="#services">View Services</a> 
           </button>
         </div>
       </div>
